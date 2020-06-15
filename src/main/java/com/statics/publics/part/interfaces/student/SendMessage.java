@@ -14,5 +14,6 @@ public interface SendMessage {
      */
       boolean massSend(int[] userId,String messger);
 
+      //测试
 
 }
